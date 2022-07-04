@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClariceAragao&layout=compact&langs_count=7&theme=omni"/>
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Clari-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+  <img align="center" alt="Clari-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="right" alt="Clari-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2022/07/05/uiyUOq.png">
 </div>
   
