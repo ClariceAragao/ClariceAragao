@@ -12,7 +12,7 @@
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Clari-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
-  <img align="right" alt="Clari-pic" height="150" style="border-radius:50px;" src="https://imgur.com/a/ZyW4fUn">
+  <img align="right" alt="Clari-pic" height="150" style="border-radius:50px;" src="<a href="https://im.ge/i/uiyUOq"><img src="https://i.im.ge/2022/07/05/uiyUOq.png" alt="uiyUOq.png" border="0"></a>">
 </div>
   
  ##
