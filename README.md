@@ -1,18 +1,26 @@
-## Olá! Eu sou a Clarice Aragão.
+## Sobre mim:
+<img align="right" width="300" src="https://i.im.ge/2022/07/05/uiCiIf.gif" />
 
-- 🌱 Estudando IOS development
-- 😄 Pronomes: ela/dela | she/her
-- ⚡ Fun fact: eu era nutricionista
--->
+```Swift
+var userID = [String: String] = ["Nome": "Clarice Aragão Souza",
+                                 "Pronouns": "she/her | ela/dela",
+                                 "Idade": "25 anos",
+                                 "Habilidade": "IOS Development"]                             
+```
 
+
+## **Linguagens e Ferramentas:**  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
+
+
+## **GitHub Estatísticas:**
 <div align="center">
   <a href="https://github.com/ClariceAragao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClariceAragao&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClariceAragao&layout=compact&langs_count=7&theme=omni"/>
   </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Clari-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="right" alt="Clari-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2022/07/05/uiyUOq.png">
+  
+  <img align="right" alt="Clari-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2022/07/05/uiCjdW.png">
 </div>
   
  ##
