@@ -22,7 +22,7 @@ var userID = [String: String] = ["Nome": "Clarice Aragão Souza",
   
   <img align="right" alt="Clari-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2022/07/05/uiCjdW.png">
 </div>
-  
+ 
  ##
  
 <div> 
