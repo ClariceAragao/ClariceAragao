@@ -1,5 +1,5 @@
 ## Sobre mim:
-<img align="right" width="300" src="https://i.im.ge/2022/07/05/uiCiIf.gif" />
+<!-- <img align="right" width="300" src="https://i.im.ge/2022/07/05/uiCiIf.gif" /> -->
 
 ```Swift
 var userID = [String: String] = ["Nome": "Clarice Aragão",
