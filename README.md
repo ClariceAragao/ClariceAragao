@@ -2,10 +2,9 @@
 <img align="right" width="300" src="https://i.im.ge/2022/07/05/uiCiIf.gif" />
 
 ```Swift
-var userID = [String: String] = ["Nome": "Clarice Aragão Souza",
-                                 "Pronouns": "she/her | ela/dela",
-                                 "Idade": "26 anos",
-                                 "Habilidade": "IOS Development"]                             
+var userID = [String: String] = ["Nome": "Clarice Aragão",
+                                 "Idade": "29 anos",
+                                 "Habilidade": "Being curious"]                             
 ```
 
 
@@ -20,8 +19,8 @@ var userID = [String: String] = ["Nome": "Clarice Aragão Souza",
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClariceAragao&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   </div>
   
-  <img align="right" alt="Clari-pic" height="150" style="border-radius:50px;"  src="https://media.discordapp.net/attachments/629503553395752970/1024396642616606821/gif.gif">
-</div>
+  *<img align="right" alt="Clari-pic" height="150" style="border-radius:50px;"  src="https://media.discordapp.net/attachments/629503553395752970/1024396642616606821/gif.gif">
+</div>*
  
  ##
  
